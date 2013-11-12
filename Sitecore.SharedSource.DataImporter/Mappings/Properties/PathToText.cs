@@ -1,12 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Sitecore.Data.Items;
+﻿using Sitecore.Data.Items;
 using Sitecore.Data.Fields;
-using System.Web;
-using Sitecore.SharedSource.DataImporter.Extensions;
-using System.Collections;
 using Sitecore.SharedSource.DataImporter.Providers;
 
 namespace Sitecore.SharedSource.DataImporter.Mappings.Properties

@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using Sitecore.Data.Items;
-using System.Data;
+﻿using Sitecore.Data.Items;
 using Sitecore.SharedSource.DataImporter.Providers;
 
 namespace Sitecore.SharedSource.DataImporter.Mappings.Properties {
